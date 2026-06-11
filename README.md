@@ -3,7 +3,7 @@
 ## Overview 
 Exploratory data analysis of NBA player statistics from the 2023-24 season using Python and Pandas. This project examines scoring trends, positional averages, and the relationship between age and performance. 
 
-## Tools USed 
+## Tools Used 
 - Python
 - Pandas
 - Matplotlib
